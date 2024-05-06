@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Viviré" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Viviré" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Viviré" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../../../Progra 2. 2 parcial/DeDonato_Agustin_parcial.cpp" />
+		<Unit filename="../rlutil/tapio-rlutil-821fdca/rlutil.h" />
+		<Unit filename="Clientes.h" />
+		<Unit filename="Configuracion.h" />
+		<Unit filename="Factura.h" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="FechaAuto.h" />
+		<Unit filename="Habitaciones.h" />
+		<Unit filename="Herramientas.h" />
+		<Unit filename="Reportes.h" />
+		<Unit filename="Ventas.h" />
+		<Unit filename="VentasCabecera.h" />
+		<Unit filename="VentasDet.h" />
+		<Unit filename="VentasDetalle.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="rlutil.h" />
+		<Unit filename="rr.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

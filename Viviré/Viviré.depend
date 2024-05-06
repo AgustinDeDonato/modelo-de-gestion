@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1626323460 source:d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<ctime>
+	<sstream>
+	"rlutil.h"
+	"Herramientas.h"
+	"Fecha.h"
+	"FechaAuto.h"
+	"Habitaciones.h"
+	"Clientes.h"
+	"VentasDetalle.h"
+	"VentasCabecera.h"
+	"Factura.h"
+	"Configuracion.h"
+	"Reportes.h"
+
+1626323489 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\habitaciones.h
+
+1623971674 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\funciones_hb.h
+
+1626323719 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\clientes.h
+
+1624577374 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\fecha.h
+
+1626323460 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\ventascabecera.h
+
+1624510496 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\ventas.h
+
+1626323298 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\ventasdetalle.h
+	"VentasCabecera.h"
+
+1626304770 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\configuracion.h
+
+1626317353 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\factura.h
+
+1625521111 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\fechaauto.h
+
+1571584339 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1626290401 source:d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\rr.rc
+
+1626315099 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\reportes.h
+
+1626313056 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\viviré\herramientas.h
+
+1626323460 source:c:\users\hector de donato\desktop\tpfinal\trabajo integrador\viviré\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<ctime>
+	<sstream>
+	"rlutil.h"
+	"Herramientas.h"
+	"Fecha.h"
+	"FechaAuto.h"
+	"Habitaciones.h"
+	"Clientes.h"
+	"VentasDetalle.h"
+	"VentasCabecera.h"
+	"Factura.h"
+	"Configuracion.h"
+	"Reportes.h"
+
+1571584339 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\viviré\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1626313056 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\viviré\herramientas.h
+
+1624577374 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\viviré\fecha.h
+
+1625521111 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\viviré\fechaauto.h
+
+1637158687 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\viviré\habitaciones.h
+
+1637035485 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\viviré\clientes.h
+
+1626323298 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\viviré\ventasdetalle.h
+	"VentasCabecera.h"
+
+1637035485 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\viviré\ventascabecera.h
+
+1626317353 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\viviré\factura.h
+
+1626304770 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\viviré\configuracion.h
+
+1626315099 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\viviré\reportes.h
+
+1626290401 source:c:\users\hector de donato\desktop\tpfinal\trabajo integrador\viviré\rr.rc
+
+1637159691 source:c:\users\hector de donato\desktop\progra 2. 2 parcial\dedonato_agustin_parcial.cpp
+	<iostream>
+	<cstring>
+

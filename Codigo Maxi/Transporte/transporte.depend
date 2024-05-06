@@ -1,0 +1,178 @@
+# depslib dependency file v1.0
+1588118401 source:c:\users\daniel kloster\documents\curso ejemplos c\programacion ii\2020\transporte\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"tipos.h"
+	"prototipos.h"
+	"funciones.h"
+	"funciones_empresas.h"
+	"funciones_viajes.h"
+
+1588120135 c:\users\daniel kloster\documents\curso ejemplos c\programacion ii\2020\transporte\tipos.h
+
+1588120116 c:\users\daniel kloster\documents\curso ejemplos c\programacion ii\2020\transporte\prototipos.h
+
+1588114033 c:\users\daniel kloster\documents\curso ejemplos c\programacion ii\2020\transporte\funciones.h
+
+1588119908 c:\users\daniel kloster\documents\curso ejemplos c\programacion ii\2020\transporte\funciones_empresas.h
+
+1588119642 c:\users\daniel kloster\documents\curso ejemplos c\programacion ii\2020\transporte\funciones_viajes.h
+
+1600124363 source:c:\users\kid\documents\programacion 2\transporte\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"utilidades.h"
+	"tipos.h"
+	"prototipos.h"
+	"funciones.h"
+	"funciones_empresas.h"
+	"funciones_viajes.h"
+
+1571584339 c:\users\kid\documents\programacion 2\transporte\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1599750454 c:\users\kid\documents\programacion 2\transporte\utilidades.h
+
+1600118001 c:\users\kid\documents\programacion 2\transporte\tipos.h
+
+1600122795 c:\users\kid\documents\programacion 2\transporte\prototipos.h
+
+1588114033 c:\users\kid\documents\programacion 2\transporte\funciones.h
+
+1600124546 c:\users\kid\documents\programacion 2\transporte\funciones_empresas.h
+
+1588119642 c:\users\kid\documents\programacion 2\transporte\funciones_viajes.h
+
+1600124363 source:d:\descargas\transporte\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"utilidades.h"
+	"tipos.h"
+	"prototipos.h"
+	"funciones.h"
+	"funciones_empresas.h"
+	"funciones_viajes.h"
+
+1571584339 d:\descargas\transporte\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1599750454 d:\descargas\transporte\utilidades.h
+
+1600118001 d:\descargas\transporte\tipos.h
+
+1600122795 d:\descargas\transporte\prototipos.h
+
+1588114033 d:\descargas\transporte\funciones.h
+
+1600124546 d:\descargas\transporte\funciones_empresas.h
+
+1588119642 d:\descargas\transporte\funciones_viajes.h
+
+1600124363 source:d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\codigo maxi\transporte\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"utilidades.h"
+	"tipos.h"
+	"prototipos.h"
+	"funciones.h"
+	"funciones_empresas.h"
+	"funciones_viajes.h"
+
+1625526656 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\codigo maxi\transporte\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1599750454 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\codigo maxi\transporte\utilidades.h
+
+1600118001 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\codigo maxi\transporte\tipos.h
+
+1600122795 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\codigo maxi\transporte\prototipos.h
+
+1588114033 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\codigo maxi\transporte\funciones.h
+
+1600124546 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\codigo maxi\transporte\funciones_empresas.h
+
+1588119642 d:\utn frgp\tercer cuatrimestre\laboratorio de computacion ii\trabajo integrador\codigo maxi\transporte\funciones_viajes.h
+
+1600124363 source:c:\users\hector de donato\desktop\tpfinal\trabajo integrador\codigo maxi\transporte\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"utilidades.h"
+	"tipos.h"
+	"prototipos.h"
+	"funciones.h"
+	"funciones_empresas.h"
+	"funciones_viajes.h"
+
+1625526656 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\codigo maxi\transporte\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1599750454 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\codigo maxi\transporte\utilidades.h
+
+1600118001 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\codigo maxi\transporte\tipos.h
+
+1600122795 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\codigo maxi\transporte\prototipos.h
+
+1588114033 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\codigo maxi\transporte\funciones.h
+
+1600124546 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\codigo maxi\transporte\funciones_empresas.h
+
+1588119642 c:\users\hector de donato\desktop\tpfinal\trabajo integrador\codigo maxi\transporte\funciones_viajes.h
+
